@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhijit Pal</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gadai14&label=Profile%20views&color=0e75b6&style=flat" alt="gadai14" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abhijit77123869" target="blank"><img src="https://img.shields.io/twitter/follow/abhijit77123869?logo=twitter&style=for-the-badge" alt="abhijit77123869" /></a> </p>
