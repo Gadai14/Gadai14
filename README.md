@@ -1,8 +1,9 @@
 <h1 align ="center">Hi , I'm ABHIJIT PAL</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="">
+
+<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/web-development-4096021-3428954.mp4">
 # 💫 About Me:
-- 🌱 I’m currently learning **Web Development , AI**<br><br>- 👯 I’m looking to collaborate on **AI/ML Projects**<br><br>- 📫 How to reach me **biswajit1973.pal@gmail.com**
+- 🌱 I’m currently learning **Web Development , AI**<br>- 👯 I’m looking to collaborate on **AI/ML Projects**<br><br>- 📫 How to reach me **biswajit1973.pal@gmail.com**
 
 
 ## 🌐 Socials:
