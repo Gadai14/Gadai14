@@ -1,8 +1,7 @@
 <h1 align ="center">Hi , I'm ABHIJIT PAL</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Gadai14/Gadai14/assets/121002242/cf2d4485-2fc0-4908-bb3b-e633d5dca895
-">
+<img align="right" alt="Coding" width="400" src="">
 # 💫 About Me:
 - 🌱 I’m currently learning **Web Development , AI**<br>- 👯 I’m looking to collaborate on **AI/ML Projects**<br><br>- 📫 How to reach me **biswajit1973.pal@gmail.com**
 
