@@ -13,7 +13,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gadai14&theme=dark)](https://git.io/streak-stats)
+[![Github Gadai14](https://streak-stats.demolab.com/?user=Gadai14&theme=dark)](https://git.io/streak-stats)
 
 ![GitHub Trends](https://api.githubtrends.io/user/svg/Gadai14/langs?time_range=six_months&compact=True&theme=dark)
 
