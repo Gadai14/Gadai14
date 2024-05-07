@@ -4,3 +4,5 @@
 
 ![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gadai14&show_icons=true&theme=transparent)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gadai14&theme=dark)](https://git.io/streak-stats)
+
