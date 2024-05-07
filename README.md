@@ -1,3 +1,5 @@
+![daftpunktocat-thomas](https://github.com/Gadai14/Gadai14/assets/121002242/466360d2-cb34-4921-a488-2f197685db34)
+
 <h1 align="center">Hi 👋, I'm Abhijit Pal</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 ![Profile Views](https://gpvc.arturio.dev/Gadai14)
