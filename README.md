@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Abhijit Pal</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
-![Profile Views](https://gpvc.arturio.dev/Gadai14)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gadai14&label=Profile%20views&color=0e75b6&style=flat" alt="vdas01" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gadai14&theme=algolia" alt="vdas01" /></a> </p>
 <br>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
 
