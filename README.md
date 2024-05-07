@@ -1,4 +1,4 @@
-<img src ="https://github.com/Gadai14/Gadai14/assets/121002242/466360d2-cb34-4921-a488-2f197685db34 height=200 width=400 ">
+<img src ="https://github.com/Gadai14/Gadai14/assets/121002242/466360d2-cb34-4921-a488-2f197685db34 height=00 width=400 ">
 
 <h1 align="center">Hi 👋, I'm Abhijit Pal</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
