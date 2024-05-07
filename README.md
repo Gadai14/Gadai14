@@ -6,4 +6,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gadai14&theme=dark)](https://git.io/streak-stats)
 
-https://api.githubtrends.io/user/svg/Gadai14/langs?time_range=six_months&compact=True&theme=dark
+![GitHub Trends](https://api.githubtrends.io/user/svg/Gadai14/langs?time_range=six_months&compact=True&theme=dark)
