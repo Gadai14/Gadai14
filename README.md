@@ -79,7 +79,7 @@
 <details open>
     <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?&type=horizontal&theme=tokyonight" alt="quotes card" style="font-family: 'Arial', sans-serif; font-size: 16px; color: #333;" /
+        <img src="https://quotes-github-readme.vercel.app/api?&type=horizontal&theme=tokyonight" alt="quotes card" /
             >
     </a>
 </details>
