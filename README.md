@@ -38,6 +38,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gadai14&theme=blueberry-duo&border_radius=8&date_format=j%20M%5B%20Y%5D&stroke=BF4444E8" alt="Gadai14" /></p>
 
 
+  <summary>Recently played</summary>
+    <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" alt="Spotify recently played"></a>
+
+
+    
+
 <h3>Bored? Wanna see some jokes ? <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /></h3>
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api?hideBorder&type=vertical&theme=tokyonight" alt="Jokes Card" height="auto" width="850"/>
