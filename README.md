@@ -51,7 +51,7 @@
 <summary>Click here for a cute surprise !</summary>
 <img src="https://cat-gifs.cyclic.app">
 </details>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Gadai14&theme=darkhub" />
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gadai14&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Gadai14" /></p>
