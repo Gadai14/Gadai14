@@ -67,7 +67,7 @@
 <h3>Bored? Wanna see some jokes ? <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /></h3>
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api?hideBorder&type=vertical&theme=tokyonight" alt="Jokes Card" height="auto" width="850"/>
-
+<h2>:thought_balloon: Quote of the day</h2>
 <details open>
     <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
