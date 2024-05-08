@@ -41,3 +41,5 @@
 <h3>Bored? Wanna see some jokes ? <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /></h3>
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api?hideBorder&type=vertical" alt="Jokes Card" height="auto" width="850"/>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ek7dhomw5rbvt6om7wwjj7tmhi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=3fdf3a&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ek7dhomw5rbvt6om7wwjj7tmhi&redirect=true)
