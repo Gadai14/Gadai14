@@ -60,9 +60,16 @@
 
   <summary>Recently played</summary>
     <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" alt="Spotify recently played"></a>
-<h3>Bored? Wanna see some jokes ? <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /></h3>
+<h3></h3>
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api?hideBorder&type=vertical&theme=tokyonight" alt="Jokes Card" height="auto" width="850"/>
+<h2>:zany_face: Bored? Wanna see some jokes ? <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /></h2>
+<details>
+    <summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+       <img src="https://readme-jokes.vercel.app/api?hideBorder&type=vertical&theme=tokyonight" alt="Jokes Card" height="auto" width="850"/>
+    </a>
+</details>
+
 <h2>:thought_balloon: Quote of the day</h2>
 <details open>
     <summary>See quote</summary>
