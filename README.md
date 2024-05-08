@@ -55,6 +55,7 @@
 <img src="https://cat-gifs.cyclic.app">
 </details>
 
+<h2> 📊 Github Stats</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gadai14&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Gadai14" /></p>
 
