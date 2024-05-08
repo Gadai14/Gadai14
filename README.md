@@ -16,7 +16,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gadai14&show_icons=true&locale=en&theme=tokyonight" alt="Gadai14" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gadai14&show_icons=true&locale=en&theme=blueberry-duo" alt="Gadai14" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gadai14&theme=blueberry-duo&border_radius=8&date_format=j%20M%5B%20Y%5D&stroke=BF4444E8" alt="Gadai14" /></p>
 
 
 <h3>Bored? Wanna see some jokes ? <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /></h3>
