@@ -24,7 +24,7 @@
 <a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
 <br>
-https://github-profile-trophy.vercel.app/?username=Gadai14&theme=darkhub
+<a href="https://github-profile-trophy.vercel.app/?username=Gadai14&theme=darkhub" />
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
