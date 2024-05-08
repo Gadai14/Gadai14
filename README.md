@@ -40,7 +40,7 @@
 
 <h3>Bored? Wanna see some jokes ? <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /></h3>
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api?hideBorder&type=vertical" alt="Jokes Card" height="auto" width="850"/>
+<img src="https://readme-jokes.vercel.app/api?hideBorder&type=vertical&theme=tokyonight" alt="Jokes Card" height="auto" width="850"/>
 
 <details open>
     <summary>See quote</summary>
@@ -48,10 +48,5 @@
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
 </details>
-<h2>:zany_face: Joke of the day</h2>
-<details>
-    <summary>See joke</summary>
-    <a href="https://github.com/ABSphreak/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-    </a>
-</details>
+
+
