@@ -44,7 +44,7 @@
 <code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 </br></br>
 <details>
-<summary>Click here for a cute surprise! :3</summary>
+<summary>Click here for a cute surprise !</summary>
 <img src="https://cat-gifs.cyclic.app">
 </details>
 
