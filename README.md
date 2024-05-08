@@ -19,4 +19,4 @@
 
 <h3>Bored? Wanna see some jokes ? <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /></h3>
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api?theme=transparent&type=vertical" alt="Jokes Card" height="auto" width="900"/>
+<img src="https://readme-jokes.vercel.app/api?theme=transparent&type=vertical" alt="Jokes Card" height="auto" width="auto"/>
