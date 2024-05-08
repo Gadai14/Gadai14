@@ -2,11 +2,9 @@
 
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines= 👋+I'm+Abhijit;He/him;Computer+Engineering+Student;Mern+Stack+Developer;Cat+Lover+;Power+Metal+Lover+%3C3;" alt="Computer Engineering Student"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hi 👋,+I'm+Abhijit;He/him;Computer+Engineering+Student;Mern+Stack+Developer;Cat+Lover+;Power+Metal+Lover" alt="Computer Engineering Student"></a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Abhijit Pal</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gadai14&label=Profile%20views&color=0e75b6&style=flat" alt="vdas01" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
