@@ -1,5 +1,6 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/Gadai14)
 
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Computer+Engineering+Student;Brazilian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
