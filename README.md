@@ -25,7 +25,6 @@
 </p>
 <br>
 <p align="left"><a href="https://github-profile-trophy.vercel.app/?username=Gadai14&theme=dracula" alt="Gadai14" /></a></p>
-<p align="left"> <a href="https://github.com/Gadai14/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gadai14&theme=algolia" alt="vdas01" /></a> </p>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
