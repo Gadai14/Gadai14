@@ -42,4 +42,16 @@
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api?hideBorder&type=vertical" alt="Jokes Card" height="auto" width="850"/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ek7dhomw5rbvt6om7wwjj7tmhi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=3fdf3a&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ek7dhomw5rbvt6om7wwjj7tmhi&redirect=true)
+<details open>
+    <summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
+<h2>:zany_face: Joke of the day</h2>
+<details>
+    <summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+    </a>
+</details>
