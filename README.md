@@ -57,9 +57,9 @@
 
 <h2> 📊 Github Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gadai14&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Gadai14" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gadai14&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Gadai14" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gadai14&show_icons=true&locale=en&theme=transparent" alt="Gadai14" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gadai14&show_icons=true&locale=en&theme=tokyonight" alt="Gadai14" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gadai14&theme=blueberry-duo&border_radius=8&date_format=j%20M%5B%20Y%5D&stroke=BF4444E8" alt="Gadai14" /></p>
