@@ -62,7 +62,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gadai14&show_icons=true&locale=en&theme=tokyonight" alt="Gadai14" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gadai14&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&stroke=BF4444E8" alt="Gadai14" /></p>
 
 
 <a href="https://open.spotify.com/user/31ek7dhomw5rbvt6om7wwjj7tmhi"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
