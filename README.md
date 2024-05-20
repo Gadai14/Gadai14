@@ -63,7 +63,6 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gadai14&theme=tokyonight" alt="GitHub Streak" /></a>
 
-
 <a href="https://open.spotify.com/user/31ek7dhomw5rbvt6om7wwjj7tmhi"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
 
 
